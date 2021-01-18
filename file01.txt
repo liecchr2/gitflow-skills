@@ -1,2 +1,3 @@
-#This is the first file added to the first feature.
-#Edit made in second-file feature.
+This is the first file added to the first feature.
+Edit made in second-file feature.
+Edit made in v1.0.1 hotfix.
